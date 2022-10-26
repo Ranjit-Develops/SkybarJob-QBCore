@@ -12,6 +12,7 @@ Discord:-Ranjit#6511
 # Required
 **Lift**
 https://github.com/DanielCoelh0/qb-lift.git
+
 **Map**
 
 [https://dons.tebex.io/package/4489363]
