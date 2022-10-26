@@ -10,11 +10,35 @@ https://www.youtube.com/watch?v=sw8pf4nb1ZM
 #Contact
 Discord:-Ranjit#6511
 # Required
-
+**Lift**
+https://github.com/DanielCoelh0/qb-lift.git
 **Map**
 
 [https://dons.tebex.io/package/4489363]
 
+**qb-lift/config.lua**
+```    ["Skybar"] = {
+        Sound = "liftSoundBellRing",
+        Name = "Elevator One",
+        Floors = {
+            [1] = {
+                Label = "Ground Floor",
+                FloorDesc = "Skybar Ground Lobby",
+                Coords = vector3(310.01, -929.95, 29.47),
+                ExitHeading = "171.9"
+            },
+            [2] = {
+                Label = "First Floor",
+                FloorDesc = "Skybar Upper Lobby",
+                Coords = vector3(310.0, -930.07, 52.81),
+                ExitHeading = "171.85"
+            },
+        }
+    },
+    ```
+    ```     [X] = { name = "Skybar Ground", location = vector3(308.9, -931.2, 29.47), width = 1, length = 1, heading = 177.09, minz = 28.47, maxz = 30.47},
+    [X] = { name = "Skybar ", location = vector3(308.91, -931.21, 52.81), width = 1, length = 1, heading = 177.09, minz = 51.81, maxz = 53.81},
+      ```
 **qb-core/shared/items.lua**
 ```
     -- Ranjit-Skybar
