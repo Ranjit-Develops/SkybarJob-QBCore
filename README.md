@@ -39,7 +39,7 @@ https://github.com/DanielCoelh0/qb-lift.git
     ```     [X] = { name = "Skybar Ground", location = vector3(308.9, -931.2, 29.47), width = 1, length = 1, heading = 177.09, minz = 28.47, maxz = 30.47},
     [X] = { name = "Skybar ", location = vector3(308.91, -931.21, 52.81), width = 1, length = 1, heading = 177.09, minz = 51.81, maxz = 53.81},
     -- [X] is Defined as The Number of Lift you are using depending on your need Make Sure to Fill It
-      ```
+  ```
     
 # **qb-core/shared/items.lua**
 ```
