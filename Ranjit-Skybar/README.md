@@ -1,6 +1,6 @@
 # Ranjit-Skybar script for QB-Core
 
-| If you are intested in recieving updates join the community on **[Discord](https://discord.gg/marcinhu)**! |
+| If you are intested in recieving updates join the community on **[Discord][https://discord.gg/M2Umqvd832]**! |
 
 # Preview
 
