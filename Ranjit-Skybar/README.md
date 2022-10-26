@@ -82,8 +82,8 @@ https://forum.cfx.re/t/mlo-all-hassaric-s-maps-for-free/4776406
 	}
 
 # **qb-core/shared/jobs.lua**
-	['tequila'] = {
-        label = 'Tequila',
+	['Skybar'] = {
+        label = 'Skybar',
         defaultDuty = true,
         offDutyPay = false,
         grades = {
