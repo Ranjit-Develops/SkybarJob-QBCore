@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=8Xfsxl-soy8&feature=youtu.be
 
 **Map**
 
-https://forum.cfx.re/t/mlo-all-hassaric-s-maps-for-free/4776406
+[https://dons.tebex.io/package/4489363]
 
 **qb-core/shared/items.lua**
 ```
