@@ -82,6 +82,9 @@ https://github.com/DanielCoelh0/qb-lift.git
 	["skybar_watermelon"] 		= {["name"] = "skybar_watermelon", 					["label"] = "Watermelon", 			 	["weight"] = 50, 	["type"] = "item", 	["image"] = "skybar_watermelon.png", 			["unique"] = false,   	["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = ""},
 	["skybar_banana"] 			= {["name"] = "skybar_banana", 						["label"] = "Banana", 			 		["weight"] = 50, 	["type"] = "item", 	["image"] = "skybar_banana.png", 				["unique"] = false,   	["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = ""},
 	["skybar_coconut"] 			= {["name"] = "skybar_coconut", 					["label"] = "Coconut", 			 		["weight"] = 50, 	["type"] = "item", 	["image"] = "skybar_coconut.png", 				["unique"] = false,   	["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = ""},
+	["skybar_banana_nut"] 		= {["name"] = "skybar_banana_nut", 					["label"] = "skybar banana nut", 			 	["weight"] = 50, 	["type"] = "item", 	["image"] = "skybar_vanillacupcakes.png", 			["unique"] = false,   	["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = ""},
+	["skybar_chocolatecup"] 			= {["name"] = "skybar_chocolatecup", 						["label"] = "skybar chocolatecup", 			 		["weight"] = 50, 	["type"] = "item", 	["image"] = "skybar_vanillacupcakes.png", 				["unique"] = false,   	["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = ""},
+	["skybar_strawberrycup"] 			= {["name"] = "skybar_strawberrycup", 					["label"] = "skybar strawberrycup", 			 		["weight"] = 50, 	["type"] = "item", 	["image"] = "skybar_vanillacupcakes.png", 				["unique"] = false,   	["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = ""},
 ```
 # **qb-smallresources/config.lua**
 	ConsumeablesDrink = {
