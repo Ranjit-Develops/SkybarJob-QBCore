@@ -54,7 +54,7 @@ RegisterNetEvent('Ranjit-Skybar:client:DrinkAlcahol', function(itemName)
         end
         alcoholCount = alcoholCount + 1
         if alcoholCount > 1 and alcoholCount < 4 then TriggerEvent("evidence:client:SetStatus", "alcohol", 200)
-        elseif alcoholCount >= 4 then TriggerEvent("evidence:client:SetStatus", "heavyalcohol", 200)
+        elseif alcoholCount >= 1 then TriggerEvent("evidence:client:SetStatus", "heavyalcohol", 200)
         AlienEffect()
         end
         
