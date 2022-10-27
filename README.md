@@ -3,6 +3,9 @@
 | If you are intested in recieving updates join the community on **[Discord][https://discord.gg/M2Umqvd832]**! |
 
 |Big Thanks To **Marcinhu**[His Tebex] https://marcinhu.tebex.io/ |
+
+#**Updates**
+Added Alcohol Effect By J Lee Gaming#3366
 # Preview
 
 https://www.youtube.com/watch?v=sw8pf4nb1ZM
