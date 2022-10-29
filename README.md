@@ -118,7 +118,7 @@ https://github.com/DanielCoelh0/qb-lift.git
 	}
 
 # **qb-core/shared/jobs.lua**
-	['Skybar'] = {
+	['skybar'] = {
         label = 'Skybar',
         defaultDuty = true,
         offDutyPay = false,
